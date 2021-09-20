@@ -1,8 +1,10 @@
 ## :wave: Hey, i am Jackson!
 
 ### :heart:️ Thanks for being here!
-
-- :telephone_receiver: You can contact me through (**`.Alpha#1111`**)
+[<img src="https://img.shields.io/discord/865319695850405888?color=5865F2&style=for-the-badge&label=Discord" />](https://discord.gg/nNHH5apCwr)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_TheMaestroo_) 
+![counter](https://komarev.com/ghpvc/?username=TheMaestro0&style=flat-square)
+- :telephone_receiver: You can contact me through (**`..Jackson#1107`**)
 
 #### Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
